@@ -7,3 +7,6 @@
 
 ### 진동데이터 활용 충돌체 탐지 AI 경진대회 [링크](https://dacon.io/competitions/official/235614/overview/)
 - [진동 데이터 톺아보기](https://github.com/JeongMyeong/Dacon-Competition-CodeShare/blob/master/collider-EDA.ipynb)
+### 생체 광학 
+### 퇴근 시간 버스 인원
+### 행동 데이터(
